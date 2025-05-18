@@ -1,6 +1,6 @@
 # 🗂️ Tab Group Saver - Chrome Extension
 
-A lightweight and intuitive Chrome extension that allows you to save, restore, rename, and manage groups of tabs with ease. Instead of bookmarking each tab individually, group your open tabs under a custom name and revisit them anytime.
+A lightweight and intuitive Chrome extension that allows you to save and manage groups of tabs with ease. Instead of bookmarking each tab individually, group your open tabs under a custom name and revisit them anytime.
 
 ## Preview
 
